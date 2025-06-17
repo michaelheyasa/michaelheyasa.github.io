@@ -1,0 +1,25 @@
+body {
+    background-color: rgba( 248, 214, 134,0.5);
+    font-family: "Arial Black", Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color: black;
+    
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(18, 18, 19);
+}
+h3{
+    font-size:  30px;
+}
+h4{
+    font-size: 30px;
+}
+
+h5{
+    font-size: 30px;
+}
+h6{
+    font-size: 30px;
+}
